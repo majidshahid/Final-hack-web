@@ -1,0 +1,21 @@
+.header{
+    width: '100%';
+    height: "100%";
+    background-color: #0782F9;
+    
+}
+.body_container{
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.login_container{
+width: 100%;
+height: 100%;
+justify-content: center;
+align-items: center;
+
+}
+
